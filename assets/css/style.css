@@ -699,7 +699,15 @@ section {
 .portfolio-details .portfolio-description p {
   padding: 0;
 }
-
+.portfolio-title {
+  font-size: auto;
+  font-weight: 600;
+  text-align: center;
+  background-image: conic-gradient(#553c9a, #ee4b2b, #00c2cb);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
