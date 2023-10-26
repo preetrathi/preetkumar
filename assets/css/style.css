@@ -715,6 +715,10 @@ section {
   margin-bottom: 20px;
 }
 
+.certificates_align {
+  text-align: center;
+}
+
 .services .icon {
   float: left;
   display: flex;
